@@ -1,0 +1,1 @@
+PROMPT = "Write a resume"
